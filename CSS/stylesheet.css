@@ -1,0 +1,28 @@
+a {
+  color: aquamarine;
+  background-color: blue;
+}
+
+html {
+  font-family: courier new, courier, monospace;
+  background-color: lightgray;
+}
+
+h1,
+h2,
+h3 {
+  color: black;
+  font-family: verdana, geneva, tahoma, sans-serif;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+li {
+  font-size: small;
+  color: black;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+}
