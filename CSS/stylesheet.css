@@ -20,9 +20,11 @@ h3 {
 li {
   font-size: small;
   color: black;
+  background-color: whitesmoke;
 }
 
 p {
   color: black;
   font-weight: bold;
+  background-color: white;
 }
