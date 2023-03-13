@@ -9,22 +9,47 @@ html {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   color: black;
   font-family: verdana, geneva, tahoma, sans-serif;
   font-size: x-large;
   font-weight: bolder;
+  margin: 20px;
+  padding: 20px;
 }
 
 li {
   font-size: small;
   color: black;
-  background-color: whitesmoke;
+  white-space: normal;
 }
 
 p {
   color: black;
   font-weight: bold;
-  background-color: white;
+  white-space: normal;
+  margin: 35px;
+}
+
+center {
+  background-color: turquoise;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px;
+  padding: 0px;
+  border-style: solid;
+}
+
+h3 {
+  margin: 20px;
+  padding: 20px;
+}
+
+aside {
+  margin: 0px;
+  padding: 0px;
 }
