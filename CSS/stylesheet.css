@@ -8,30 +8,28 @@ html {
   background-color: lightgray;
 }
 
-h1,
-h2 {
+#content {
   color: black;
   font-family: verdana, geneva, tahoma, sans-serif;
-  font-size: x-large;
+  font-size: large;
   font-weight: bolder;
-  margin: 20px;
-  padding: 20px;
+  margin-left: 0px;
 }
 
 li {
   font-size: small;
   color: black;
   white-space: normal;
+  display: flex;
 }
 
 p {
   color: black;
   font-weight: bold;
   white-space: normal;
-  margin: 35px;
 }
 
-center {
+#center {
   background-color: turquoise;
 }
 
@@ -44,12 +42,28 @@ img {
   border-style: solid;
 }
 
-h3 {
-  margin: 20px;
-  padding: 20px;
+#content {
+  display: flex;
 }
 
-aside {
-  margin: 0px;
-  padding: 0px;
+#element1 {
+  position: static;
+}
+
+#element2 {
+  position: static;
+}
+
+#element3 {
+  position: static;
+}
+
+#paragraph1 {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#paragraph2 {
+  border: 1px solid black;
+  padding: 10px;
 }
