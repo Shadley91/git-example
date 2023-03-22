@@ -29,19 +29,6 @@ p {
   white-space: normal;
 }
 
-#center {
-  background-color: turquoise;
-}
-
-img {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-  margin: 20px;
-  padding: 0px;
-  border-style: solid;
-}
-
 #content {
   display: flex;
 }
